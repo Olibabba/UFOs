@@ -31,7 +31,7 @@ In order to broaden your search and get more results, you must and delete or cle
 
 ![Two Filters](https://github.com/Olibabba/UFOs/blob/main/resources/two_filters.png)
 
-The filters do not require you to complete the entire word. So you can searh for cities that start with "Fr" and return Freson, Francis Creek, and Freedom.
+The filters do not require you to complete the entire word. So for example, you can searh for cities that start with "Fr" and return Fresno, Francis Creek, and Freedom.
 
 ![Partial Filter](https://github.com/Olibabba/UFOs/blob/main/resources/Partial_search.png)
 
